@@ -1,8 +1,10 @@
 ## What is git? 
 
 ## What are some use cases for git?
+	version control? i dont know 
 
 ## what are the alternatives for git?
+	[[Version control/svn/basics]]
 
 ## what are the most important git commands?
 
