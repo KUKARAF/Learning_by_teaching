@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "front end/JavaScript/basics.md",
+            "file": "Version control/git/basics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front end/JavaScript/basics.md",
+                "file": "Version control/git/basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "124af6576206cb06",
   "lastOpenFiles": [
-    "front end/JavaScript/basics.md",
     "Version control/git/basics.md",
+    "README.md",
+    "front end/JavaScript/basics.md",
     "front end/html/basics.md",
     "front end/JavaScrypt.md",
-    "README.md",
     "Version control/github/basics.md",
     "Version control/svn/basics.md"
   ]

@@ -1,7 +1,9 @@
 ## What is git? 
 
+## how to use git
+
 ## What are some use cases for git?
-	version control? i dont know 
+	version control? i dont know << lets improve that answer
 
 ## what are the alternatives for git?
 	[[Version control/svn/basics]]
